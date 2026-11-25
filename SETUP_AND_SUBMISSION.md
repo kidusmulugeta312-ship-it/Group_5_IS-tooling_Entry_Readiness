@@ -1,5 +1,5 @@
-# Upload and submission guide
-1. Download and extract the starter ZIP. Open its main folder to see README.md and the nine required folders.
+# Upload and submission(generalized guide for collaborators only)
+1. Download and extract the starter ZIP from telegram. Open its main folder to see README.md and the nine required folders.
 2. Review proposed roles, privacy, and drafts. The original proposal PDF contains student IDs. Agree on public/private visibility with your group and instructor before uploading.
 3. Sign in to YOUR GitHub account. Click + > New repository. Select your account as owner. Suggested name: group5-is-tooling-readiness. Do not initialize README, .gitignore, or a license, since starter files already exist. Create repository.
 4. On the empty repository page, choose uploading an existing file. Drag the CONTENTS of the extracted main folder into the upload area (not the ZIP, and not its outer wrapper folder). Verify README.md and all nine folders will be at the repository root.
@@ -30,3 +30,4 @@ Use GitHub's authentication flow when prompted; do not put tokens or passwords i
 - https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
 - https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
 - https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
+  These are the steps used to create the repo.One member is enough for creating the repo, i will create one and add all of the collaborators. if u face any problem we can meet and solve the issue.
