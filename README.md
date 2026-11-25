@@ -27,21 +27,23 @@ Roles below are suggestions only; confirm or change them together before submiss
 | Nahom Daniel | Analysis scripts and reproducibility checks |
 | Nathan Teshager | Report integration and presentation coordination |
 
-Software and datasets
-- Git and GitHub: version history and collaboration.
-- Google Forms: planned questionnaire collection, not yet created.
-- Optional spreadsheet/statistical software: to be selected and documented before inferential analysis.
-- Dataset: `data/survey_anonymized_template.csv` is header-only, not collected or synthetic participant data.
-- No external dataset or completed pilot dataset is included.
+ Software and datasets
 
- Reproduce the descriptive analysis
-1. Review `data/data-dictionary.md` and `analysis/analysis-plan.md`.
-2. After consent and collection, produce a de-identified CSV using the exact template columns. Keep identifiable originals outside GitHub.
-3. From the repository root run:
-   `python analysis/analyze.py --input data/survey_anonymized_template.csv --output analysis/output`
-   On Windows, `py` can replace `python` if necessary.
-4. With the empty template, the program reports that no data exist and produces no findings.
-5. With valid responses it writes `category_summary.csv` and `readiness_by_pathway.csv` into the output directory. Missing ratings are omitted; category counts are reported. Repeated rows per person represent tool categories, not independent participants.
+- GitHub is used to organize project files and track project development.
+- Google Forms is planned for questionnaire administration.
+- Analysis software has not yet been selected.
+- No participant data have been collected or analyzed.
+- The CSV file in data/ is an empty draft template, not collected data.
+
+ Analysis status and reproducibility
+
+Data collection and analysis have not yet been conducted.
+The proposed analysis methods are described in the research proposal
+and the draft analysis plan.
+
+The group will document the software, data-cleaning steps, and
+analysis procedures when analysis is performed. No executable
+analysis code or results are currently included.
 
 The script implements descriptive summaries only. It does NOT perform regression, significance tests, thematic analysis, or causal estimation. Those require a reviewed design, sufficient data, and additional documented code. Outputs are ignored by Git by default to avoid accidental disclosure.
 
