@@ -1,9 +1,5 @@
  IS Software Tooling Gaps and Graduate Entry Readiness
 
-Section 2, Group 5 — School of Information Science, Addis Ababa University
-Research and Technical Writing for Information Systems
-Instructor: Ermias Abebe (PhD)
-
  Project overview
 This project investigates gaps between software tools covered in undergraduate Information Systems programs and tools required in local software firms and freelance work. It compares entry readiness across firm-employed graduates and freelancers. The original proposal is in `proposal/` (dated October 28, 2026).
 
@@ -52,3 +48,8 @@ Obtain instructor/institutional approval as applicable before recruitment. Use p
 
 Workflow and project evolution
 Commit real changes as they occur: instrument revision, pilot feedback, approved instrument, cleaned-data documentation, analysis, report drafts, presentation. Use descriptive messages and keep actual meeting notes. Do not invent meetings, results, or backdated progress. See `SETUP_AND_SUBMISSION.md`.
+
+
+School of Information Science, Addis Ababa University
+Research and Technical Writing for Information Systems
+Instructor: Ermias Abebe (PhD)
