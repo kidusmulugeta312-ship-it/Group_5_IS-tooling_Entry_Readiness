@@ -1,4 +1,4 @@
- Analysis plan — Draft, Review before data collection
+ #Analysis plan — Draft, Review before data collection
 1. Validate eligibility, consent, duplicates, ratings, category membership, and missingness. Report recruitment and exclusions.
 2. Summarize exposure and importance separately. These have different meanings and should not simply be subtracted to claim a measured curriculum gap.
 3. Rank current skill mismatch by mean(required proficiency minus current proficiency) on complete rating pairs within categories. This is a current self-reported mismatch, NOT direct evidence of curriculum causation. Report sample sizes. Review whether an entry-time measure is needed to align with the research questions.
