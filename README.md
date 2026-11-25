@@ -13,7 +13,7 @@ Repository starter prepared November 25, 2026 from the supplied proposal. The pr
 The original proposal uses impact language. A cross-sectional observational study should report associations, not establish causation.
 
  Group members and roles
-Roles below are suggestions only; confirm or change them together before submission. Student IDs are intentionally omitted from this README; the original PDF contains them.
+Roles are below and Student IDs are intentionally omitted from this README; the original PDF contains them.
 
 | Member | Proposed role — pending confirmation |
 |---|---|
