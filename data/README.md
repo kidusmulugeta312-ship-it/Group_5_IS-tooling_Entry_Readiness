@@ -1,0 +1,2 @@
+# Data status
+No participant data are included. The CSV is a header-only schema for reviewed, anonymized graduate responses. Keep signed consent, identifiers, raw exports, and recordings outside the repository. Do not publish data until consent, institutional requirements, and re-identification risk have been reviewed. Use documentation or an approved restricted-data access statement instead of public responses when necessary.
